@@ -1,0 +1,5 @@
+{
+  "name": "Hover Aim Trainer",
+  "description": "An aim trainer where you destroy targets by hovering over them with a custom cursor.",
+  "requestFramePermissions": []
+}
